@@ -93,5 +93,3 @@ Passionate about software development, automation, game development, and solving
 - GitHub: https://github.com/Dakofer
 
 ---
-
-> *"Always learning, always building."*
